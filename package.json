@@ -10,7 +10,8 @@
     "build": "gulp build"
   },
   "dependencies": {
-    "del": "^6.0.0"
+    "del": "^6.0.0",
+    "yarn": "^1.22.11"
   },
   "devDependencies": {
     "@babel/core": "^7.15.0",

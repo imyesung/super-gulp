@@ -20,6 +20,8 @@
     "babel-core": "^6.26.3",
     "babel-register": "^6.26.0",
     "gulp": "^4.0.2",
-    "gulp-pug": "^5.0.0"
+    "gulp-image": "^6.2.1",
+    "gulp-pug": "^5.0.0",
+    "gulp-webserver": "^0.9.1"
   }
 }
